@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T0FLrIsj+dhcO/M5zLVHKEtG4L7CISZjxk1M5moYDX/BYSAA0VgyekQk0aegRSOlYQC9TqXZu7OdyGv7hbJuAg==",
+  "dgSpecHash": "RjO3jYbZK2E8ADOHpH3YEI8CMbmSO7Zp7gvgTAqdtE28GAX8LMkdHTPmldPdLhRnnV+gwhdNJysZRZbbuak7EA==",
   "success": true,
-  "projectFilePath": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj",
+  "projectFilePath": "E:\\ASU\\2024 Spring\\Cap\\CapStone_V3_Shared\\CapstoneProject\\CapstoneV2\\CapstoneV2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\dynamiclanguageruntime\\1.3.4\\dynamiclanguageruntime.1.3.4.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\ironpython\\3.4.1\\ironpython.3.4.1.nupkg.sha512",
     "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\DESKTOP\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\DESKTOP\\.nuget\\packages\\system.device.gpio\\3.1.0\\system.device.gpio.3.1.0.nupkg.sha512",

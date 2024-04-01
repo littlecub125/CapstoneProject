@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj": {}
+    "E:\\ASU\\2024 Spring\\Cap\\CapStone_V3_Shared\\CapstoneProject\\CapstoneV2\\CapstoneV2.csproj": {}
   },
   "projects": {
-    "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj": {
+    "E:\\ASU\\2024 Spring\\Cap\\CapStone_V3_Shared\\CapstoneProject\\CapstoneV2\\CapstoneV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj",
+        "projectUniqueName": "E:\\ASU\\2024 Spring\\Cap\\CapStone_V3_Shared\\CapstoneProject\\CapstoneV2\\CapstoneV2.csproj",
         "projectName": "CapstoneV2",
-        "projectPath": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj",
+        "projectPath": "E:\\ASU\\2024 Spring\\Cap\\CapStone_V3_Shared\\CapstoneProject\\CapstoneV2\\CapstoneV2.csproj",
         "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
-        "outputPath": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\obj\\",
+        "outputPath": "E:\\ASU\\2024 Spring\\Cap\\CapStone_V3_Shared\\CapstoneProject\\CapstoneV2\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -38,6 +38,10 @@
       "frameworks": {
         "net472": {
           "dependencies": {
+            "IronPython": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
             "System.Device.Gpio": {
               "target": "Package",
               "version": "[3.1.0, )"

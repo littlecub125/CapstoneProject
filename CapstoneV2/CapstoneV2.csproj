@@ -90,6 +90,9 @@
     <Content Include="Resource\Square Arrow Up.png" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="IronPython">
+      <Version>3.4.1</Version>
+    </PackageReference>
     <PackageReference Include="System.Device.Gpio">
       <Version>3.1.0</Version>
     </PackageReference>

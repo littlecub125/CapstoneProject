@@ -15,6 +15,7 @@ namespace CapstoneV2.Model
         public static GpioController controller = new GpioController();
         private PwmChannel pwmChannel;
 
+
         public enum RotateServer
         {
             RotateToCW = 0,
@@ -63,6 +64,8 @@ namespace CapstoneV2.Model
             bool bResult = false;
             try
             {
+                var engine = IronPython.Hosting.Python.CreateEngine();
+                var scope = engine.CreateScope();
                 //WiringPi.Core.PinMode(RaspberryGPIOpin, PinMode.Output);
                 if (!controller.IsPinOpen(RaspberryGPIOpin))
                 {
@@ -148,7 +151,12 @@ namespace CapstoneV2.Model
         /// <param name="motorPulse">number of milliseconds to wait to pulse the servo</param>
         public void PulseMotor(double motorPulse)
         {
+            var engine = IronPython.Hosting.Python.CreateEngine();
+            var scope = engine.CreateScope();
+            var source = engine.CreateScriptSourceFromString(@"ControllerLibrary.py");
 
+            source.Execute(scope);
+     
             //Total amount of time for a pulse
             double TotalPulseTime;
             double timeToWait;
@@ -156,15 +164,17 @@ namespace CapstoneV2.Model
             TotalPulseTime = 20000;
             timeToWait = TotalPulseTime - motorPulse;
 
-           
+ 
+
+           /*
             controller.Write(RaspberryGPIOpin, PinValue.High);
             MillisecondToWait(motorPulse);
 
             controller.Write(RaspberryGPIOpin, PinValue.Low);
             MillisecondToWait(timeToWait);
             controller.Write(RaspberryGPIOpin, PinValue.Low);
+           */
 
-          
         }
 
         /// <summary>
