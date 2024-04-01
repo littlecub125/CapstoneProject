@@ -1,0 +1,32 @@
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\bin\Debug\CapstoneV2.exe.config
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\bin\Debug\CapstoneV2.exe
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\bin\Debug\CapstoneV2.pdb
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\bin\Debug\Enterprisecoding.RPI.GPIO.dll
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.csproj.AssemblyReference.cache
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.Form1.resources
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.Properties.Resources.resources
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.csproj.GenerateResource.cache
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.csproj.CoreCompileInputs.cache
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.csproj.CopyComplete
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.exe
+E:\ASU\2024 Spring\Capstone_V2\CapstoneV2\obj\Debug\CapstoneV2.pdb
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\CapstoneV2.exe.config
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\CapstoneV2.exe
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\CapstoneV2.pdb
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\Microsoft.Win32.Registry.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Buffers.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Device.Gpio.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Memory.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Numerics.Vectors.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Security.AccessControl.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Security.Principal.Windows.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.csproj.AssemblyReference.cache
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.Form1.resources
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.Properties.Resources.resources
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.csproj.GenerateResource.cache
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.csproj.CoreCompileInputs.cache
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.csproj.CopyComplete
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.exe
+E:\ASU\2024 Spring\Capstone_V2 - 복사본\CapstoneV2\obj\Debug\CapstoneV2.pdb

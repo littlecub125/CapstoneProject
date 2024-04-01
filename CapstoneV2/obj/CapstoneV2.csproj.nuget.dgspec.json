@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj": {}
+  },
+  "projects": {
+    "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj",
+        "projectName": "CapstoneV2",
+        "projectPath": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\CapstoneV2.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "E:\\ASU\\2024 Spring\\Capstone_V2 - 복사본\\CapstoneV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Device.Gpio": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Unosquare.WiringPi": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
